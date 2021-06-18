@@ -1,0 +1,33 @@
+a:hover {
+  color: darkblue;
+}
+
+body {
+  background-color: #fbe0c4;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+h1 {
+  color: #8ab6d6;
+}
+
+h3 {
+  color: #2978b5;
+}
+
+
+
+#self-image{
+  border-radius: 100%;
+}
